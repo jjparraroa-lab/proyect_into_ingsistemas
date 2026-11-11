@@ -4,18 +4,18 @@
 
 | ID | Historia | Prioridad | Puntos | Sprint | Issue |
 |---|---|---|---|---|---|
-| HU01 | Iniciar y cerrar sesión | Debe tener | 5 | 1 | [enlace] |
-| HU02 | Gestionar acceso por roles | Debe tener | 3 | 1 | [enlace] |
-| HU03 | Registrar depósitos y rangos | Debe tener | 3 | 1 | [enlace] |
-| HU04 | Registrar y consultar expedientes | Debe tener | 5 | 1 | [enlace] |
-| HU05 | Actualizar y archivar expedientes | Debería tener | 3 | 1 | [enlace] |
-| HU06 | Registrar inspecciones | Debe tener | 5 | 2 | [enlace] |
-| HU07 | Consultar el historial | Debe tener | 3 | 2 | [enlace] |
-| HU08 | Alertas de estado crítico | Debe tener | 3 | 2 | [enlace] |
-| HU09 | Alertas de inspecciones vencidas | Debe tener | 3 | 2 | [enlace] |
-| HU10 | Ingesta de temperatura y humedad | Debe tener | 5 | 2 | [enlace] |
-| HU11 | Simulación de sensores | Debe tener | 2 | 2 | [enlace] |
-| HU12 | Tablero priorizado | Debe tener | 5 | 2 | [enlace] |
+| HU01 | Iniciar y cerrar sesión | Debe tener | 5 | 1 | https://github.com/jjparraroa-lab/proyect_into_ingsistemas/issues/10 |
+| HU02 | Gestionar acceso por roles | Debe tener | 3 | 1 | https://github.com/jjparraroa-lab/proyect_into_ingsistemas/issues/11 |
+| HU03 | Registrar depósitos y rangos | Debe tener | 3 | 1 | https://github.com/jjparraroa-lab/proyect_into_ingsistemas/issues/12 |
+| HU04 | Registrar y consultar expedientes | Debe tener | 5 | 1 | https://github.com/jjparraroa-lab/proyect_into_ingsistemas/issues/13 |
+| HU05 | Actualizar y archivar expedientes | Debería tener | 3 | 1 | https://github.com/jjparraroa-lab/proyect_into_ingsistemas/issues/14 |
+| HU06 | Registrar inspecciones | Debe tener | 5 | 2 | https://github.com/jjparraroa-lab/proyect_into_ingsistemas/issues/15|
+| HU07 | Consultar el historial | Debe tener | 3 | 2 | https://github.com/jjparraroa-lab/proyect_into_ingsistemas/issues/16 |
+| HU08 | Alertas de estado crítico | Debe tener | 3 | 2 | https://github.com/jjparraroa-lab/proyect_into_ingsistemas/issues/17 |
+| HU09 | Alertas de inspecciones vencidas | Debe tener | 3 | 2 | https://github.com/jjparraroa-lab/proyect_into_ingsistemas/issues/18 |
+| HU10 | Ingesta de temperatura y humedad | Debe tener | 5 | 2 | https://github.com/jjparraroa-lab/proyect_into_ingsistemas/issues/19 |
+| HU11 | Simulación de sensores | Debe tener | 2 | 2 | https://github.com/jjparraroa-lab/proyect_into_ingsistemas/issues/20 |
+| HU12 | Tablero priorizado | Debe tener | 5 | 2 | https://github.com/jjparraroa-lab/proyect_into_ingsistemas/issues/21 |
 
 ## HU01: Autenticación
 **Como** personal del CLENA **quiero** iniciar y cerrar sesión **para** acceder de manera segura.

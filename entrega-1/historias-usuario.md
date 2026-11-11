@@ -1,14 +1,16 @@
 # Historias de usuario
 
+## Resumen
+
 | ID | Historia | Prioridad | Puntos | Sprint | Issue |
-|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|
 | HU01 | Iniciar y cerrar sesión | Debe tener | 5 | 1 | [enlace] |
 | HU02 | Gestionar acceso por roles | Debe tener | 3 | 1 | [enlace] |
 | HU03 | Registrar depósitos y rangos | Debe tener | 3 | 1 | [enlace] |
-| HU04 | Registrar y consultar expedientes | Debe tener | 5 | 1 | | [enlace] |
-| HU05 | Actualizar y archivar expedientes | Debería tener | 3 | 1 |  [enlace] |
+| HU04 | Registrar y consultar expedientes | Debe tener | 5 | 1 | [enlace] |
+| HU05 | Actualizar y archivar expedientes | Debería tener | 3 | 1 | [enlace] |
 | HU06 | Registrar inspecciones | Debe tener | 5 | 2 | [enlace] |
-| HU07 | Consultar el historial | Debe tener | 3 | 2 |  [enlace] |
+| HU07 | Consultar el historial | Debe tener | 3 | 2 | [enlace] |
 | HU08 | Alertas de estado crítico | Debe tener | 3 | 2 | [enlace] |
 | HU09 | Alertas de inspecciones vencidas | Debe tener | 3 | 2 | [enlace] |
 | HU10 | Ingesta de temperatura y humedad | Debe tener | 5 | 2 | [enlace] |

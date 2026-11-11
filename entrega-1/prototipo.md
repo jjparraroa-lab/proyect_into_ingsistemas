@@ -30,6 +30,9 @@ HU01 Inicio de sesión <img width="1232" height="871" alt="image" src="https://g
 
 HU02 Gestión de roles <img width="1355" height="962" alt="Screenshot 2026-11-10 220838" src="https://github.com/user-attachments/assets/344a5479-869a-49c0-ad5a-e594e6599dc7" /> 
 
+## Comparación 
+
+<img width="845" height="822" alt="Captura de pantalla 2026-11-11 094752" src="https://github.com/user-attachments/assets/320accf3-69bd-4f72-8054-e986a357bd78" />
 
 
 ## Accesibilidad

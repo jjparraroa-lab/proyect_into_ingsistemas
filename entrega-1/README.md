@@ -38,9 +38,9 @@ Hoy el CLENA no cuenta con un sistema de alertas que permita monitorear el estad
 
 | Integrante | Historias redactadas | Otras tareas |
 |---|---|---|
-| Santiago Herrera Arevalo | [HU01, HU02, HU03] | [personas, pantallas HU01 a HU03 de Figma] |
-| Samuel Eskaff Perez | [HU04, HU05, HU06] | [acta de la reunión 1, Issues de feedback] |
-| Diego Rojano Retamozo | [HU07, HU08, HU09] | [Figma, evidencias.md] |
-| Juan Parra Roa | [HU10, HU11, HU12] | [README, alianza.md] |
+| Santiago Herrera Arevalo | HU01, HU02, HU03 | personas, pantallas HU01 a HU03 de Figma |
+| Samuel Eskaff Perez | HU04, HU05, HU06 | acta de la reunión 1, Issues de feedback |
+| Diego Rojano Retamozo | HU07, HU08, HU09 | Figma, evidencias.md |
+| Juan Parra Roa | HU10, HU11, HU12 | README, alianza.md |
 
 

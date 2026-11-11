@@ -4,6 +4,8 @@
 **Equipo:** Grupo 7
 **Fecha de entrega:** 11 de noviembre de 2026
 
+<sub>[Ver presentación del proyecto](PEGA-AQUÍ-EL-ENLACE)</sub>
+
 ## Proyecto
 
 **Nombre:** Monitoreo y alertas de conservación (P3)

@@ -82,7 +82,7 @@
 - Dado que hay una alerta ambiental abierta, cuando llega una lectura normal posterior, entonces la alerta se resuelve; una lectura atrasada no cambia el estado actual.
 
 ## HU11: Simulación
-**Como** [rol] **quiero** simular sensores **para** demostrar el flujo sin hardware.
+**Como** equipo **quiero** simular sensores **para** demostrar el flujo sin hardware.
 - Dado que ejecuto el simulador con una cuenta autorizada, cuando envía lecturas, entonces estas llegan a la aplicación real y aparecen en el historial.
 - Dado que configuro la cantidad y el intervalo de lecturas, cuando lo ejecuto, entonces envía esa cantidad con ese intervalo.
 - Dado que el simulador envía lecturas fuera de rango y luego normales, cuando reviso las alertas, entonces se abren y se resuelven según corresponde.

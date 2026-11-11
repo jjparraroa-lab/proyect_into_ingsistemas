@@ -1,7 +1,7 @@
 # Entrega 1: Levantamiento y diseño para el CLENA
 
 **Curso:** Introducción a la Ingeniería de Sistemas y Computación
-**Equipo:** [número o nombre del equipo]
+**Equipo:** Grupo 7
 **Fecha de entrega:** 11 de noviembre de 2026
 
 ## Proyecto
@@ -9,18 +9,18 @@
 **Nombre:** Monitoreo y alertas de conservación (P3)
 **Espacio del CLENA:** Archivo Histórico (Aduana de Barranquilla)
 
-[Una o dos frases sobre el problema que resuelve. Por ejemplo: qué pasa hoy con el control del estado de los expedientes y qué permite hacer la aplicación.]
+Hoy el CLENA no cuenta con un sistema de alertas que permita monitorear el estado de conservación de sus archivos. Por eso no se sabe cuáles necesitan revisión inmediata, lo que puede causar problemas cuando el público busca esos documentos. Este proyecto desarrolla una aplicación web que permite al personal del CLENA organizar el inventario en una base de datos, registrar inspecciones y recibir alertas de los expedientes en estado crítico.
 
 ## Equipo de Backend aliado
 
-- **Equipo:** [nombre o número del equipo de Backend]
-- **Integrantes de Backend con quienes trabajamos:** [nombres]
-- **Repositorio de Backend:** [enlace]
-- **Aplicación desplegada:** [enlace, o "Aún no desplegada"]
+- **Equipo:** P3
+- **Integrantes de Backend con quienes trabajamos:** Víctor Daniel Cantillo Valencia, Sebastián David Gonzales Quintanilla, Leonel Jose Triana Martínez, Gabriel Andrés Caicedo de la Iglesia. 
+- **Repositorio de Backend:** https://github.com/Yutaerre21/ProyectoFinalBackend
+-  **Aplicación desplegada:** Aún no desplegada.
 
 ## Prototipo
 
-- **Figma:** [enlace al archivo, con permiso de comentario para djromero@uninorte.edu.co]
+- **Figma:** https://www.figma.com/design/rjrsNfygAxx01ZlnB11XWC/G7--figma?node-id=0-1&t=CEOjugNBm6T4QUw5-1
 - Detalle y capturas en [prototipo.md](prototipo.md)
 
 ## Contenido de la entrega
@@ -38,9 +38,9 @@
 
 | Integrante | Historias redactadas | Otras tareas |
 |---|---|---|
-| [Nombre 1] | [HU01, HU02, HU03] | [ej. personas, pantallas HU01 a HU03 de Figma] |
-| [Nombre 2] | [HU04, HU05, HU06] | [ej. acta de la reunión 1, Issues de feedback] |
-| [Nombre 3] | [HU07, HU08, HU09] | [ej. Figma, evidencias.md] |
-| [Nombre 4] | [HU10, HU11, HU12] | [ej. README, alianza.md] |
+| Santiago Herrera Arevalo | [HU01, HU02, HU03] | [personas, pantallas HU01 a HU03 de Figma] |
+| Samuel Eskaff Perez | [HU04, HU05, HU06] | [acta de la reunión 1, Issues de feedback] |
+| Diego Rojano Retamozo | [HU07, HU08, HU09] | [Figma, evidencias.md] |
+| Juan Parra Roa | [HU10, HU11, HU12] | [README, alianza.md] |
 
-> Cada integrante redacta al menos 3 historias y debe poder explicarlas en la sustentación.
+

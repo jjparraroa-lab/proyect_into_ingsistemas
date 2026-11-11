@@ -33,5 +33,5 @@ Es una propuesta pendiente de validación con G7 (ver [historias-usuario.md](his
 
 | Issue | Tema | Estado |
 |---|---|---|
-| [#__](enlace) | Unificar nombres de estados: prototipo usa «Bueno», Backend usa «Óptimo» | Abierto |
-| [#__](enlace) | Alinear roles: prototipo (archivista, restaurador) vs. Backend (Personal CLENA, Público) | Abierto |
+| https://github.com/jjparraroa-lab/proyect_into_ingsistemas/issues/22 | Unificar nombres de estados: prototipo usa «Bueno», Backend usa «Óptimo» | Abierto |
+| https://github.com/jjparraroa-lab/proyect_into_ingsistemas/issues/23 | Alinear roles: prototipo (archivista, restaurador) vs. Backend (Personal CLENA, Público) | Abierto |

@@ -43,6 +43,6 @@ Pantalla comparada: [ej. HU08 Alertas de estado crítico]
 | Aspecto | Prototipo | Aplicación de Backend | A corregir |
 |---|---|---|---|
 | Estados de conservación | Bueno / Regular / Crítico | Óptimo / Regular / Crítico | Unificar el nombre |
-| Roles | Administrador, archivista, restaurador | Administrador, Personal CLENA, Público | [definir si el prototipo usa los mismos roles] |
+| Roles | Administrador, archivista, restaurador | Administrador, Personal CLENA, Público |
 
-Capturas de la pantalla de Backend: ![Backend](img/backend-hu08.png)
+
